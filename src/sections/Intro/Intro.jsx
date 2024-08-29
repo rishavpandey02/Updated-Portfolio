@@ -30,10 +30,10 @@ function Intro() {
             </h1>
             <h2>Full Stack Web Developer</h2>
             <span>
-                <a href='https://www.linkedin.com/in/rishav-pandey02/' target='_blank'>
+                <a href='https://github.com/rishavpandey02' target='_blank'>
                 <img src={githubIcon} alt="github icon" />
                 </a>
-                <a href='www.linkedin.com/in/rishav-pandey02' target='_blank'>
+                <a href='https://www.linkedin.com/in/rishav-pandey02/' target='_blank'>
                 <img src={linkedinIcon} alt="linkedIn icon" />
                 </a>
             </span>
